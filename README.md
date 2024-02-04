@@ -1,6 +1,8 @@
 # Worms Box
 Project Hackaton Eth 5 de Mayo 
 
+Smart Contract : 0x5fA5241aa08edc190Cf049F3F746D9D2a2B8F3D9
+
 BOS Componentes : 
 
 Comprar Worms Box : https://near.org/fchambi.near/widget/ToDoList
