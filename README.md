@@ -39,3 +39,13 @@ Cuando puedes utilizar nuestro protocolo:
 -cuando quieras que tus desechos orgánicos dejen de contaminar 
 -te interesa o quieres aprender nutrición para tus plantas con impacto positivo.
 -Cuando holdeas near  y quieres hacer impacto positivo en tu ciudad.
+
+
+Información Backend  (SmartContract)
+
+Resumen : 
+
+Este Smart Contract en Ethereum facilita acuerdos financieros entre compradores y vendedores de manera segura y transparente. Permite transacciones con tokens ERC-20 y ether nativo, con tarifas configurables para compradores y vendedores. Su lógica automatizada agiliza la liberación de fondos y gestiona disputas. El propietario tiene control sobre tarifas y retiradas de fondos. En resumen, es una solución eficiente y confiable para transacciones descentralizadas, eliminando intermediarios y aprovechando la seguridad de la blockchain Ethereum.
+
+
+
