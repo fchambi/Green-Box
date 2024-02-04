@@ -12,7 +12,7 @@ Aceptar orden Worms Box : https://near.org/fchambi.near/widget/AceptarOrdenCompr
 Confirmar orden Worms Box : https://near.org/fchambi.near/widget/Confirmar
 
 
-Link Figma: 
+Link Figma: https://www.figma.com/file/3FrOBkkXEI3hOtwpIviKJa/Wormsbox?type=design&node-id=0-1&mode=design&t=QIZLjqLRnHOI8n5P-0
 
 One Pager
 
