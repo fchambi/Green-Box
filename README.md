@@ -14,6 +14,8 @@ Confirmar orden Worms Box : https://near.org/fchambi.near/widget/Confirmar
 
 Link Figma: https://www.figma.com/file/3FrOBkkXEI3hOtwpIviKJa/Wormsbox?type=design&node-id=0-1&mode=design&t=QIZLjqLRnHOI8n5P-0
 
+pdf: https://docs.google.com/document/d/104jITMWXzGgnFVyyPpV62IedhUk4wo6ISyi0YkpK04w/edit?usp=sharing
+
 One Pager
 
 Introducción:
