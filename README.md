@@ -4,7 +4,9 @@ Project Hackaton Eth 5 de Mayo
 BOS Componentes : 
 
 Comprar Worms Box : https://near.org/fchambi.near/widget/ToDoList
+
 Aceptar orden Worms Box : https://near.org/fchambi.near/widget/AceptarOrdenCompra
+
 Confirmar orden Worms Box : https://near.org/fchambi.near/widget/Confirmar
 
 
